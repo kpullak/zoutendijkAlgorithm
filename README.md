@@ -1,2 +1,2 @@
 # zoutendijkAlgorithm
-This is an implementation of a constrained optimisation problem using Zoutendijk Algorithm 
+This is an Matlab implementation of a constrained optimisation problem using Zoutendijk Algorithm. 
